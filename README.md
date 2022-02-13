@@ -14,4 +14,6 @@ npx create-react-app
 
 Se han buscado implementar con NodeJS la creación de módulos.
 
-Se instaló la versión 5.1.3 de bootstrap en dependencias.
+Se instaló la versión 5.1.3 de bootstrap para flexbox en dependencias y la versión 3.2.0 de react-lazyload como librerías del proyecto por [npmjs](https://www.npmjs.com/package/react-lazyload), configurados en package.json para actualizar.
+
+Se revisó la posibilidad de un proyecto node
