@@ -64,14 +64,16 @@ body {
 
 .card__container {
         width: 90%;
+        display:flex;
+        justify-content: space-between;
         margin: 0 auto;
+        flex-wrap: wrap;
 }
 
 .card {
 
   width: 30%;
   display: inline-block;
-  margin-right: 20px;
   border: 1px solid #888585;
   border-radius: 5px;
   box-shadow: 7px 9px 17px 0px rgba(0, 0, 0, 0.75);
